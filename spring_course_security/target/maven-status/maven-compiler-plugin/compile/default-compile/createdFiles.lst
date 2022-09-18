@@ -1,0 +1,5 @@
+com\lazarev\spring\security\configuration\MyConfig.class
+com\lazarev\spring\security\configuration\MySecurityConfig.class
+com\lazarev\spring\security\configuration\MySecurityInitializer.class
+com\lazarev\spring\security\configuration\MyWebInitializer.class
+com\lazarev\spring\security\controller\MyController.class
